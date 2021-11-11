@@ -1,0 +1,23 @@
+tr, td {
+padding: 39px;
+border: 1px solid black;
+font-size: large;
+}
+body {
+    background: linear-gradient(to top, #4b4b4b, #ffffff);
+    text-align:  center;
+}
+td:hover {
+    transform: scale(1.05);
+}
+tbody td:hover {
+    background: #000000;
+    color: rgb(255, 255, 255);
+   }
+   table { 
+    width: 100%;
+    height: 886px;
+}
+img {
+    height: 100px;
+}
